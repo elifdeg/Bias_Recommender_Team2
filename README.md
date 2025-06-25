@@ -14,7 +14,8 @@ Project Goals:
 - Apply mitigation techniques to the best, middle and worst performing algorithms.
 
 Methodology:
-Run 7 recommender algorithms and use metrics to measure, first for the music dataset and then for the books dataset. At the end we choose the best, middle and worst performing algprithms and applied bias mitigation.
+The paper we reproduced investigates popularity bias in music recommender systems and how this bias differently impacts male and female users. Used data set is "LFM-2b-DemoBias", a curated subset of the Last.fm "LFM-2b" dataset. Filters applied to the dataset: Interactions with play count > 1, tracks with ≥ 5 listeners, users with ≥ 5 tracks. Final dataset included: ~20k users, ~100k tracks, with gender labels. After that we ran 7 recommender algorithms and used delta and similarity metrics to measure, first for the music dataset and then for the books dataset. Evaluation protocol included User-based 5-fold cross-validation and train/validation/test split of users (60/20/20). We evaluated recommendations using NDCG@10 for ranking quality. Metrics were analyzed separately for female and male users to assess if popularity bias varies by gender. At the end we choose the best, middle and worst performing algorithms and applied bias mitigation. All of these were applied first to the music dataset and then to the books datastet.
+
 
 Datasets: 
 - Music Domain: [LFM-2b Dataset] from: https://www.cp.jku.at/datasets/LFM-2b/
