@@ -34,7 +34,7 @@ Methodology:
 -  All of these were applied first to the music dataset and then to the books datastet.
 
 Datasets: 
-- Music Domain: [LFM-2b Dataset] from: https://www.cp.jku.at/datasets/LFM-2b/
+- Music Domain: [LFM-2b Dataset] from: https://www.cp.jku.at/datasets/LFM-2b/ .The authors state that beacuse of licencing issues the dataset is not available to public. We contacted the authors and they sent us the respective dataset. That is why we only include the link to the webpage where the dataset used to be available, and didn't upload the dataset itself in our repository.
 - Book Domain: [Book-Crossing] Dataset from: https://www.kaggle.com/datasets/syedjaferk/book-crossing-dataset/data
 
 Algorithms Used:
