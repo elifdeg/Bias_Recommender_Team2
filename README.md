@@ -21,23 +21,23 @@ Datasets:
 - Book Domain: [Book-Crossing] Dataset from: https://www.kaggle.com/datasets/syedjaferk/book-crossing-dataset/data
 
 Algorithms Used:
-Random Item (RAND)
-Most Popular Items (POP)
-Item k-Nearest Neighbors (ItemKNN)
-Sparse Linear Method (SLIM)
-Alternating Least Squares (ALS)
-Matrix factorization with Bayesian Personalized Ranking (BPR)
-Variational Autoencoder (VAE)
+- Random Item (RAND)
+- Most Popular Items (POP)
+- Item k-Nearest Neighbors (ItemKNN)
+- Sparse Linear Method (SLIM)
+- Alternating Least Squares (ALS)
+- Matrix factorization with Bayesian Personalized Ranking (BPR)
+- Variational Autoencoder (VAE)
 
 Bias Metrics: 
-%Δ𝑀𝑒𝑎𝑛 
-%Δ𝑀𝑒𝑑𝑖𝑎𝑛 
-%Δ𝑉𝑎𝑟. 
-%Δ𝑆𝑘𝑒𝑤 
-%Δ𝐾𝑢𝑟𝑡𝑜𝑠𝑖𝑠 
-𝐾𝐿 
-Kendall’s 𝜏 
-NDCG@10
+- %Δ𝑀𝑒𝑎𝑛 
+- %Δ𝑀𝑒𝑑𝑖𝑎𝑛 
+- %Δ𝑉𝑎𝑟. 
+- %Δ𝑆𝑘𝑒𝑤 
+- %Δ𝐾𝑢𝑟𝑡𝑜𝑠𝑖𝑠 
+- 𝐾𝐿 
+- Kendall’s 𝜏 
+- NDCG@10
 
 
 
