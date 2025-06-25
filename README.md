@@ -17,8 +17,8 @@ Methodology:
 Run 7 recommender algorithms and use metrics to measure, first for the music dataset and then for the books dataset. At the end we choose the best, middle and worst performing algprithms and applied bias mitigation.
 
 Datasets: 
-Music Domain: [LFM-2b Dataset] from: https://www.cp.jku.at/datasets/LFM-2b/
-Book Domain: [Book-Crossing] Dataset from: https://www.kaggle.com/datasets/syedjaferk/book-crossing-dataset/data
+- Music Domain: [LFM-2b Dataset] from: https://www.cp.jku.at/datasets/LFM-2b/
+- Book Domain: [Book-Crossing] Dataset from: https://www.kaggle.com/datasets/syedjaferk/book-crossing-dataset/data
 
 Algorithms Used:
 Random Item (RAND)
