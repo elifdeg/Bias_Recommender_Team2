@@ -55,6 +55,15 @@ Bias Metrics:
 - Kendall’s 𝜏 
 - NDCG@10
 
+References:
 
+- Borges, R., & Stefanidis, K. (2021). On mitigating popularity bias in recommendations via variational autoencoders. In Proceedings of the 36th Annual ACM Symposium on Applied Computing (SAC '21) (pp. 1383–1389). Association for Computing Machinery. https://doi.org/10.1145/3412841.3442123
+- Cima, R. (2017, June). Bias, she wrote: The gender balance of The New York Times best seller list. The Pudding.Retrieved June 26, 2025, from https://pudding.cool/2017/06/best-sellers/
+- Ekstrand, M. D., Tian, M., Kazi, M. R. I., Mehrpouyan, H., & Kluver, D. (2018). Exploring author gender in book rating and recommendation. In Proceedings of the 12th ACM Conference on Recommender Systems (RecSys '18) (pp. 242–250). Association for Computing Machinery. https://doi.org/10.1145/3240323.3240373
+- Lesota, O., Melchiorre, A., Rekabsaz, N., Brandl, S., Kowald, D., Lex, E., & Schedl, M. (2021, September). Analyzing item popularity bias of music recommender systems: Are different genders equally affected? In Proceedings of the 15th ACM conference on recommender systems (pp. 601–606).
+- Liu, B., Chen, E., & Wang, B. (2023). Reducing popularity bias in recommender systems through AUC-optimal negative sampling. arXiv preprint arXiv:2306.01348. https://arxiv.org/abs/2306.01348
+- Melchiorre, A. B., Rekabsaz, N., Parada-Cabaleiro, E., Brandl, S., Lesota, O., & Schedl, M. (2025). Investigating gender fairness of recommendation algorithms in the music domain [GitHub repository]. https://github.com/CPJKU/recommendation_systems_fairness
+- Pérez Posada, S. (2025, March 13). Exposing the music industry’s gender bias. Skoove.https://www.skoove.com/blog/music-gender-bias/
+- Xv, G., Lin, C., Li, H., Su, J., Ye, W., & Chen, Y. (2022). Neutralizing popularity bias in recommendation models. In Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '22) (pp. 2623–2628). Association for Computing Machinery. https://doi.org/10.1145/3477495.3531907
 
 
