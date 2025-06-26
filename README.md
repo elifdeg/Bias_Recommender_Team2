@@ -11,13 +11,11 @@ Project Goals:
 - Evaluate multiple algorithms and compare their behavior with respect to fairness and bias.
 - Apply mitigation techniques to the best, middle and worst performing algorithms.
 
-Code and Notebook:
+Code and Notebooks:
+- We created two jupyter notebook files. Notebook "Code_Data_Processing" includes steps and code we used to pre-process two datadets before applying recommendation algorithms. Notebook "Code_Algorithms_Mitigation" includes the code we used to model the recommendation algorithms and metrics as well as their evaluation. It also includes bias mitigation techniques used for both datasets.
 - We only used Pyhton.
-- We added all of the code we used in a jupyter notebook. Our Notebook includes code for all 7 algorithms we ran and the metrics we used for both music and books datasets.
 - We ran some of the code directly in jupyter notebooks web, and some using locally Pycharm.  
-- It also includes code for bias mitigation applied.
-- Results and evaluation of the results can also be find in the notebook.
-- Python libraries used in the code:
+- Python libraries used in our code:
     - Standard Library:os, random
     - Data Manipulation & Computation: numpy (np), pandas (pd)
     - Statistics: scipy.stats, scipy.sparse.csr_matrix
