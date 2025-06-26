@@ -32,8 +32,11 @@ Methodology:
 -  All of these were applied first to the music dataset and then to the books datastet.
 
 Datasets: 
-- Music Domain: [LFM-2b Dataset] from: https://www.cp.jku.at/datasets/LFM-2b/ .The authors state that beacuse of licencing issues the dataset is not available to public. We contacted the authors and they sent us the respective dataset. That is why we only include the link to the webpage where the dataset used to be available, and didn't upload the dataset itself in our repository.
-- Book Domain: [Book-Crossing] Dataset from: https://www.kaggle.com/datasets/syedjaferk/book-crossing-dataset/data
+- Music Domain: [LFM-2b Dataset] from: https://www.cp.jku.at/datasets/LFM-2b/ .The LFM-2b dataset used in our study is considered derivative work according to paragraph 4.1 of Last.fm’s API Terms of Service (https://www.last.fm/api/tos). The Last.fm Terms of Service further grant us a license to use this data (according to paragraph 4).
+
+The exact dataset we are using is LFM-2b Dataset, which is a subset of LAST FM dataset and an extension of the LFM-1b dataset and was created by the respective authors of the paper we are replicating "Analyzing Item Popularity Bias of Music Recommender Systems: Are Different Genders Equally Affected?". Unfortunately due to licensing issues (see: https://www.cp.jku.at/datasets/LFM-2b/) the dataset is not avaliable to public. We had to contact the authors ourselves, and they were very kind to provide us with the dataset.
+
+- Book Domain: [Book-Crossing] Dataset from: https://www.kaggle.com/datasets/syedjaferk/book-crossing-dataset/data. The Book-Crossing dataset used in our study is publicly available and labeled as CC0: Public Domain (as stated on its Kaggle distribution page: https://www.kaggle.com/datasets/syedjaferk/book-crossing-dataset?utm_source=chatgpt.com). This permits unrestricted use, including for research and derivative work, without the need for explicit permission or attribution.
 
 Algorithms Used:
 - Random Item (RAND)
