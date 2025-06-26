@@ -3,7 +3,7 @@ This is our public repository for our project "Reproducing Popularity and Gender
 
 Git Hub link: https://github.com/elifdeg/Bias_Recommender_Team2
 
-This project reproduces the results of the paper "Analyzing Item Popularity Bias of Music Recommender Systems: Are Different Genders Equally Affected?" and extends the analysis to the book domain. Our goal is to evaluate whether recommendation algorithms reinforce popularity bias and gender bias, and whether these biases persist across different domains. All work was conducted using Python in Jupyter Notebooks.
+This project aims to reproduce the results of the paper "Analyzing Item Popularity Bias of Music Recommender Systems: Are Different Genders Equally Affected?" and extends the analysis to the book domain. Our goal is to evaluate whether recommendation algorithms reinforce popularity bias and gender bias, and whether these biases persist across different domains. All work was conducted using Python in Jupyter Notebooks.
 
 Project Goals: 
 - Reproduce key algorithms and bias metrics in music recommender systems using the dataset LFM 2b.
